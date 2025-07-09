@@ -1,0 +1,11 @@
+body {
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+}
+
+.comment-box {
+  font-family: 'Inter', sans-serif;
+}
+.comment-box {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
